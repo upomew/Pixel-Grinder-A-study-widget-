@@ -1,10 +1,11 @@
 # 🎯 Study Grinder
 
-### Built With
-*JavaScript / Node.js
-*Electron framework
-*Native HTML5 / CSS3 Grid-Flexbox
-*Press Start 2P Google Web Fonts
+## 🛠️ Built With
+* [Electron](https://www.electronjs.org/) - Cross-platform desktop application framework
+* [Node.js](https://nodejs.org/) - JavaScript backend runtime environment
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) - Native web markup structure
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) - Custom UI grid, flexbox layout, and pixel animations
+* [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Application core processing loop and localStorage engine
 
 ## Features
 * **Frameless & Transparent UI:** Sits beautifully floating on your desktop wallpaper.
