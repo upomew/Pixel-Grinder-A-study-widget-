@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pixel Grind Timer</title>
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div id="drag-handle"></div>
+
+    <div id="card">
+        <button id="action-container" aria-label="Play or Pause Timer">
+            <div id="playBtn" class="hollow-play-btn"></div>
+            <div id="timer">00:00</div>
+        </button>
+    </div>
+
+    <div id="streak-portal">
+        <div class="portal-title">STREAK</div>
+        <div class="portal-days">
+            <img src="./assets/fire.png" alt="🔥" class="streak-icon"> 
+            <span id="streak-count">0</span> DAYS
+        </div>
+        <div class="portal-total">TOTAL: 0h 00m 00s</div>
+    </div>
+
+    <script src="renderer.js"></script>
+</body>
+</html>

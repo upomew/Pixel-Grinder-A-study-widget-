@@ -1,0 +1,14 @@
+{
+  "name": "study-counter",
+  "version": "1.0.0",
+  "description": "A cute study hour counter with streaks",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "You",
+  "license": "upomew",
+  "devDependencies": {
+    "electron": "^30.0.0"
+  }
+}
