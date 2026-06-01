@@ -1,10 +1,10 @@
 # 🎯 Study Grinder
 
 ### Built With
-JavaScript / Node.js
-Electron framework
-Native HTML5 / CSS3 Grid-Flexbox
-Press Start 2P Google Web Fonts
+*JavaScript / Node.js
+*Electron framework
+*Native HTML5 / CSS3 Grid-Flexbox
+*Press Start 2P Google Web Fonts
 
 ## Features
 * **Frameless & Transparent UI:** Sits beautifully floating on your desktop wallpaper.
